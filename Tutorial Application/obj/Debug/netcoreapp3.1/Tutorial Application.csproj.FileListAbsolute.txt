@@ -1,0 +1,45 @@
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.exe
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.deps.json
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.runtimeconfig.json
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.runtimeconfig.dev.json
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.dll
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.pdb
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.Views.dll
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\bin\Debug\netcoreapp3.1\Tutorial Application.Views.pdb
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.csprojAssemblyReference.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.AssemblyInfo.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.RazorAssemblyInfo.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.RazorAssemblyInfo.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\staticwebassets\Tutorial Application.StaticWebAssets.Manifest.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\staticwebassets\Tutorial Application.StaticWebAssets.xml
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tutorial Application.styles.css
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.TagHelpers.input.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.TagHelpers.output.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.RazorCoreGenerate.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\Shared\_HelpLayout.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\Tutorial\Page1.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\Tutorial\Page2.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\Tutorial\Page3.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Areas\Help\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.Views.pdb
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.dll
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.pdb
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.genruntimeconfig.cache
+C:\Users\simon\Documents\`School\`T127 SEM 4\[C#] Web Application Development\w9 03-09\w9TutorialApplicationLab\Tutorial Application\obj\Debug\netcoreapp3.1\Tutorial Application.csproj.CopyComplete
